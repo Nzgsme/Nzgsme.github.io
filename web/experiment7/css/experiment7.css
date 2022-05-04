@@ -1,0 +1,35 @@
+
+.m-list {
+    width: 600px;
+    height: 400px;
+    background: #cccccc;
+    padding: 20px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.g-cnt {
+    width: 95px;
+    height: 60px;
+    background: #c4d8f1;
+    margin-right: 20px;
+    padding-top: 40px;
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+}
+.bigImage {
+    position: absolute;
+    border: 3px solid black;
+    width: 200px;
+    height: 200px;
+    top: 120px;
+    left: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff;
+    padding-left: 15px;
+}
